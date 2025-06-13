@@ -1,4 +1,4 @@
-# VPC-Flow-Log-Prosessing
+# Human-Readable VPC Flow Log Parser
 ## Problem
 
 - The log file contains only two fields: `timestamp` and `message`, which makes analysis difficult.
@@ -26,10 +26,11 @@
 ## 결과
 
 ### Before
-
-![image.png](attachment:a541035a-6c01-4311-91f4-efa067809f3f:image.png)
+![스크린샷 2025-06-13 113724](https://github.com/user-attachments/assets/3355914b-39d9-464d-a233-60957f417209)
 
 ### After
+![스크린샷 2025-06-13 113801](https://github.com/user-attachments/assets/5fd01bae-cb9d-4ed3-9952-900c5eb76109)
+
 
 ## Expected Benefits
 
