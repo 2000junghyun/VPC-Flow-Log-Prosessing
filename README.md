@@ -23,7 +23,7 @@
 - Converted UNIX epoch time to human-readable time in LA timezone.
 - Designed the script so input and output file names can be easily customized.
 
-## 결과
+## Results
 
 ### Before
 ![스크린샷 2025-06-13 113724](https://github.com/user-attachments/assets/3355914b-39d9-464d-a233-60957f417209)
